@@ -1,5 +1,3 @@
-@import "Nebula/Nebula.css";
-
 /* Hide the URL tooltip in the bottom left corner */
 #statuspanel[type="status"] {
   display: none !important;
