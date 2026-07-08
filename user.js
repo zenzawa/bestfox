@@ -1474,6 +1474,7 @@ user_pref("widget.transparent-windows", true);
 user_pref("nebula-tab-loading-animation", 0);
 user_pref("devtools.debugger.remote-enabled", true); // browser dev tools enable
 user_pref("zen.view.grey-out-inactive-windows", false);
+user_pref("zen.urlbar.replace-newtab", false);
 
 // NEBULA
 user_pref("nebula-workspace-style", 2);
